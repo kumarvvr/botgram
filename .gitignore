@@ -112,3 +112,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/workspace.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/botgram.iml
+botgram.zip
+chromedriver.exe

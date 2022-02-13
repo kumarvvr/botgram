@@ -1,0 +1,6 @@
+{
+  "DEFAULT_SLEEP_TIME":3,
+  "IM_URL":"https://web.telegram.org/#/im?p={userhandle}",
+  "HOME_CHANNEL_NAME":"Telegram",
+  "SLEEP_TIME":3
+}

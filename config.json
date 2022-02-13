@@ -1,0 +1,15 @@
+{
+  "SLEEP_TIME":3,
+  "CHANNEL_SCAN_LIST":[
+    {
+      "CHANNELNAME":"Telcoin Community"
+    },
+    {
+      "CHANNELNAME":"Life to tech"
+    }
+  ],
+  "CHANNEL_LIST_SCAN_REPEAT":5,
+  "CHANNEL_LIST_SCAN_TIME_GAP":1,
+  "CHANNEL_USER_LIMIT":99999,
+  "PM_MESSAGE_TIMEGAP":3600
+}

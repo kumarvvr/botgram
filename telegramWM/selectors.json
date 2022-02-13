@@ -1,0 +1,31 @@
+{
+  "pagewrapper":"div[class=page_wrap]",
+  "headbutton":"a[class=tg_head_btn]",
+  "channels":
+    {
+      "list":".im_dialogs_col_wrap .im_dialogs_wrap .im_dialogs_scrollable_wrap ul>li",
+      "names":".im_dialogs_col_wrap .im_dialogs_wrap .im_dialogs_scrollable_wrap ul>li .im_dialog_peer span",
+      "links":".im_dialogs_col_wrap .im_dialogs_wrap .im_dialogs_scrollable_wrap ul>li a"
+    },
+  "modalwindowclosebutton":".modal_close_wrap",
+  "modaldialogclosebutton":".md_modal_action_close",
+  "channelpage":
+  {
+    "topanchor":".md_modal_split_actions_wrap",
+    "userlinks":"a.md_modal_list_peer_name",
+    "closebutton":""
+  },
+  "userprofilepage":
+  {
+    "username":".modal-dialog .modal-content .user_modal_wrap .md_modal_body .md_modal_section_param_value span",
+    "closebutton":".modal-dialog .user_modal_wrap .md_modal_action_close",
+    "angular_error":".error_modal_window .error_modal_wrap",
+    "angular_error_ok_button":".error_modal_window .error_modal_wrap .md_simple_modal_footer button"
+  },
+  "userpage":
+  {
+    "userimbox":".im_send_field_wrap .composer_rich_textarea",
+    "usersendbutton":".im_send_buttons_wrap .im_submit_send"
+  }
+
+}
